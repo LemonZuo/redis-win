@@ -1,0 +1,1 @@
+redis-cli.exe -h 192.168.2.11 -p 6379 -a V&AvVRfXb7cmaoKI54dt shutdown
